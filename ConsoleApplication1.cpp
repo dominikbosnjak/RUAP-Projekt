@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Pozdrav iz aplikacije od Dominik Bosnjak 4448");
+	printf("Pozdrav iz aplikacije od Dode");
 	return 0;
 }
 
